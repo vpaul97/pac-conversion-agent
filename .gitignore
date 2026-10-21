@@ -1,0 +1,7 @@
+*
+!.gitignore
+!sentinel/
+!sentinel/tfpolicy/
+!sentinel/tfpolicy/*/
+!sentinel/tfpolicy/*/*.policy.hcl
+!sentinel/tfpolicy/*/*.policytest.hcl
